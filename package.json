@@ -27,7 +27,7 @@
   }
 , "dependencies" :
   { "jsdom" : "0.2.x"
-  , "libxmljs" : "git://github.com/znerol/libxmljs.git#xmlwriter-0.8.1"
+  , "libxmljs" : "0.18.9-pre0"
   }
 , "devDependencies" :
   { "browserify" : "1.10.x"
